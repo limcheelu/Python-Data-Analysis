@@ -1,1 +1,1 @@
-Python data analysis, including cleaning, evaluation, visualization & analysis
+Python data analysis, including data cleaning, evaluation, visualization & analysis
